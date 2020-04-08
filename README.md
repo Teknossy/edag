@@ -1,0 +1,2 @@
+# edag
+salah gız
